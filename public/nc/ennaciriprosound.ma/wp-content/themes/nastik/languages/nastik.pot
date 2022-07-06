@@ -1,0 +1,1124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-01 01:31+0600\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: 404.php:9
+msgid "404"
+msgstr ""
+
+#: 404.php:10
+msgid "We"
+msgstr ""
+
+#: 404.php:10
+msgid "re sorry, but the Page you were looking for, couldn"
+msgstr ""
+
+#: 404.php:10
+msgid "t be found."
+msgstr ""
+
+#: 404.php:13 template-parts/search/blog-left.php:137
+#: template-parts/search/blog-right.php:137 template-parts/search/full.php:138
+msgid "Search.."
+msgstr ""
+
+#: 404.php:17
+msgid "Or"
+msgstr ""
+
+#: 404.php:18
+msgid "Back to Home Page "
+msgstr ""
+
+#: comments.php:39
+#, php-format
+msgctxt "comments title"
+msgid "%1$s "
+msgid_plural "%1$s "
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:65 includes/nastik-options.php:1076
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:113
+msgid "Leave a Reply"
+msgstr ""
+
+#: footer.php:38 includes/nastik-options.php:1005
+msgid "To top"
+msgstr ""
+
+
+#: header.php:34
+msgid "Menu"
+msgstr ""
+
+#: header.php:101
+msgid "My Portfolio"
+msgstr ""
+
+#: taxonomy-portfolio_category.php:13 template-parts/blog/blog-left.php:12
+#: template-parts/blog/blog-right.php:12 template-parts/blog/full.php:30
+#: template-parts/index/blog-left.php:12
+#: template-parts/index/blog-right.php:12 template-parts/index/full.php:37
+#: template-parts/index-details/full.php:28
+#: template-parts/index-details/left.php:12
+#: template-parts/index-details/right.php:12
+#: template-parts/page/default.php:29 template-parts/page/top-header.php:27
+#: template-parts/portfolio/boxed-grid.php:28
+#: template-parts/portfolio/column-grid-2.php:52
+#: template-parts/portfolio/column-grid.php:52
+#: template-parts/portfolio/fullscreen-grid-2.php:35
+#: template-parts/portfolio/fullscreen-grid.php:35
+#: template-parts/portfolio-details/default.php:35
+#: template-parts/portfolio-details/gallery.php:38
+#: template-parts/portfolio-details/mp4.php:53
+#: template-parts/portfolio-details/slider.php:78
+#: template-parts/portfolio-details/slider2.php:37
+#: template-parts/portfolio-details/vimeo.php:51
+#: template-parts/portfolio-details/youtube.php:48
+#: template-parts/search/blog-left.php:12
+#: template-parts/search/blog-right.php:12 template-parts/search/full.php:27
+#: woocommerce/archive-product.php:41
+#: woocommerce/content-single-product.php:38
+msgid "Scroll down  to discover"
+msgstr ""
+
+#: taxonomy-portfolio_category.php:15 template-parts/page/default.php:31
+#: template-parts/portfolio/column-grid-2.php:54
+#: template-parts/portfolio/column-grid.php:54
+#: template-parts/portfolio/fullscreen-grid-2.php:37
+#: template-parts/portfolio/fullscreen-grid.php:37
+msgid "Back to home"
+msgstr ""
+
+#: includes/nastik-options.php:1126 template-parts/index-details/full.php:175
+#: template-parts/index-details/full.php:199
+#: template-parts/index-details/left.php:181
+#: template-parts/index-details/left.php:205
+#: template-parts/index-details/right.php:179
+#: template-parts/index-details/right.php:203
+#: template-parts/portfolio-details/carousel.php:153
+#: template-parts/portfolio-details/carousel.php:177
+#: template-parts/portfolio-details/default.php:160
+#: template-parts/portfolio-details/default.php:184
+#: template-parts/portfolio-details/gallery.php:183
+#: template-parts/portfolio-details/gallery.php:207
+#: template-parts/portfolio-details/mp4.php:183
+#: template-parts/portfolio-details/mp4.php:207
+#: template-parts/portfolio-details/slider.php:183
+#: template-parts/portfolio-details/slider.php:207
+#: template-parts/portfolio-details/slider2.php:188
+#: template-parts/portfolio-details/slider2.php:212
+#: template-parts/portfolio-details/vimeo.php:181
+#: template-parts/portfolio-details/vimeo.php:205
+#: template-parts/portfolio-details/youtube.php:178
+#: template-parts/portfolio-details/youtube.php:202
+msgid "Back To Home"
+msgstr ""
+
+#: includes/nastik-options.php:1127
+msgid "Portfolio & Post Pagination."
+msgstr ""
+
+#: includes/nastik-options.php:1132 template-parts/index-details/full.php:173
+#: template-parts/index-details/full.php:197
+#: template-parts/index-details/left.php:179
+#: template-parts/index-details/left.php:203
+#: template-parts/index-details/right.php:177
+#: template-parts/index-details/right.php:201
+msgid "Back To Blog"
+msgstr ""
+
+#: includes/nastik-options.php:1133
+msgid "Post Pagination."
+msgstr ""
+
+#: includes/nastik-options.php:1138
+#: template-parts/portfolio-details/carousel.php:151
+#: template-parts/portfolio-details/carousel.php:175
+#: template-parts/portfolio-details/default.php:158
+#: template-parts/portfolio-details/default.php:182
+#: template-parts/portfolio-details/gallery.php:181
+#: template-parts/portfolio-details/gallery.php:205
+#: template-parts/portfolio-details/mp4.php:181
+#: template-parts/portfolio-details/mp4.php:205
+#: template-parts/portfolio-details/slider.php:181
+#: template-parts/portfolio-details/slider.php:205
+#: template-parts/portfolio-details/slider2.php:186
+#: template-parts/portfolio-details/slider2.php:210
+#: template-parts/portfolio-details/vimeo.php:179
+#: template-parts/portfolio-details/vimeo.php:203
+#: template-parts/portfolio-details/youtube.php:176
+#: template-parts/portfolio-details/youtube.php:200
+msgid "Back To Portfolio"
+msgstr ""
+
+
+#: includes/nastik-options.php:1145 woocommerce/content-single-product.php:157
+#: woocommerce/content-single-product.php:177
+msgid "Back To Shop"
+msgstr ""
+
+
+#: includes/nastik-options.php:1152 template-parts/search/blog-left.php:133
+#: template-parts/search/blog-right.php:133 template-parts/search/full.php:134
+msgid "No Item Found"
+msgstr ""
+
+#: includes/nastik-options.php:1153 includes/nastik-options.php:1160
+msgid "Post Search Page."
+msgstr ""
+
+#: includes/nastik-options.php:1159 template-parts/search/blog-left.php:134
+#: template-parts/search/blog-right.php:134 template-parts/search/full.php:135
+msgid "Please Search Again."
+msgstr ""
+
+#: includes/nastik-options.php:1166
+msgid "Search..."
+msgstr ""
+
+#: includes/nastik-options.php:1167
+msgid "Search Page Form Placeholder Text."
+msgstr ""
+
+#: includes/nastik-options.php:1177
+msgid "Social Options"
+msgstr ""
+
+#: includes/nastik-options.php:1184
+msgid "Social Option"
+msgstr ""
+
+#: includes/nastik-options.php:1199
+msgid "Facebook URL "
+msgstr ""
+
+#: includes/nastik-options.php:1864
+msgid "Specify the testimonial button font properties."
+msgstr ""
+
+#: includes/nastik-options.php:1878
+msgid "Biography Title"
+msgstr ""
+
+#: includes/nastik-options.php:1884
+msgid "Specify the biography title font properties."
+msgstr ""
+
+#: includes/nastik-options.php:1898
+msgid "Biography Content"
+msgstr ""
+
+#: includes/nastik-options.php:1904
+msgid "Specify the biography content font properties."
+msgstr ""
+
+#: includes/nastik-options.php:1918
+msgid "Biography Button"
+msgstr ""
+
+#: includes/nastik-options.php:1924
+msgid "Specify the biography button font properties."
+msgstr ""
+
+#: includes/nastik-options.php:1938
+msgid "Biography List Item"
+msgstr ""
+
+#: includes/nastik-options.php:1944
+msgid "Specify the biography list item font properties."
+msgstr ""
+
+#: includes/nastik-options.php:1958
+msgid "Skill Bar Title"
+msgstr ""
+
+#: includes/nastik-options.php:1964
+msgid "Specify the skill bar title font properties."
+msgstr ""
+
+#: includes/nastik-options.php:1981
+msgid "Entry Headings in Blog Page."
+msgstr ""
+
+#: includes/nastik-options.php:1987
+msgid "Post Title"
+msgstr ""
+
+#: includes/nastik-options.php:1993
+msgid "Specify the post title font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2007
+msgid "Post Date/ Category"
+msgstr ""
+
+#: includes/nastik-options.php:2013
+msgid "Specify the post date/ category font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2027
+msgid "Post Admin/ Comment"
+msgstr ""
+
+#: includes/nastik-options.php:2033
+msgid "Specify the post admin/ comment font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2047
+msgid "Post Content"
+msgstr ""
+
+#: includes/nastik-options.php:2053
+msgid "Specify the post content font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2067
+msgid "Read More Button"
+msgstr ""
+
+#: includes/nastik-options.php:2073
+msgid "Specify the post read more button font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2087
+msgid "Widget List Item"
+msgstr ""
+
+#: includes/nastik-options.php:2093
+msgid "Specify the widget list item/ li font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2110
+msgid "Entry Portfolio Details Page."
+msgstr ""
+
+#: includes/nastik-options.php:2116
+msgid "Tab Name"
+msgstr ""
+
+#: includes/nastik-options.php:2122
+msgid "Specify the portfolio tab name font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2136
+msgid "Tab Section Title"
+msgstr ""
+
+#: includes/nastik-options.php:2142
+msgid "Specify the portfolio tab section title font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2156
+msgid "Tab Content/ Accordion Content"
+msgstr ""
+
+#: includes/nastik-options.php:2162
+msgid "Specify the portfolio tab content/ accordion Content font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2178
+msgid "Accordion Title"
+msgstr ""
+
+#: includes/nastik-options.php:2184
+msgid "Specify the portfolio accordion title font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2198
+msgid "Poject Information Title"
+msgstr ""
+
+#: includes/nastik-options.php:2204
+msgid "Specify the portfolio project information title font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2218
+msgid "Poject Information Content"
+msgstr ""
+
+#: includes/nastik-options.php:2224
+msgid "Specify the portfolio project information content font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2238
+msgid "Post Pagination"
+msgstr ""
+
+#: includes/nastik-options.php:2244
+msgid "Specify the post pagination list item font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2261
+msgid "Entry Page Footer."
+msgstr ""
+
+#: includes/nastik-options.php:2267
+msgid "Footer Widget Title"
+msgstr ""
+
+#: includes/nastik-options.php:2273
+msgid "Specify the footer widget title font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2287
+msgid "Footer Widget List Item/ li"
+msgstr ""
+
+#: includes/nastik-options.php:2293
+msgid "Specify the footer widget list item font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2307
+msgid "Footer Widget p"
+msgstr ""
+
+#: includes/nastik-options.php:2313
+msgid "Specify the footer widget p font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2327
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: includes/nastik-options.php:2333
+msgid "Specify the footer copyright text font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2347
+msgid "Footer Back To Top"
+msgstr ""
+
+#: includes/nastik-options.php:2353
+msgid "Specify the footer back to top font properties."
+msgstr ""
+
+#: includes/nastik-options.php:2369
+msgid "Styling"
+msgstr ""
+
+#: includes/nastik-options.php:2375
+msgid "Theme Color Option"
+msgstr ""
+
+#: includes/nastik-options.php:2376
+msgid "Only color validation can be done on this field type"
+msgstr ""
+
+#: includes/nastik-options.php:2377
+msgid "Change all global color."
+msgstr ""
+
+#: includes/nastik-options.php:2395
+msgid "Footer Options"
+msgstr ""
+
+#: includes/nastik-options.php:2403 includes/nastik-options.php:2410
+msgid "Footer Widget Section"
+msgstr ""
+
+#: includes/nastik-options.php:2404
+msgid "Enable/ Disable widget section for your site footer."
+msgstr ""
+
+#: includes/nastik-options.php:2428
+msgid "Copy right Text"
+msgstr ""
+
+#: includes/nastik-options.php:2429
+msgid "Footer copy right Text"
+msgstr ""
+
+#: includes/nastik-options.php:2438
+msgid "Copyright text of the WebSite"
+msgstr ""
+
+#: includes/nastik-options.php:2439
+msgid "Write a Copyright text of your WebSite"
+msgstr ""
+
+#: includes/nastik-options.php:2457
+msgid "Documentation"
+msgstr ""
+
+#: includes/nastik-options.php:2465
+msgid "Nastik Theme Documentation"
+msgstr ""
+
+#: includes/nastik-options.php:2466
+msgid ""
+"<a href=\"http://webredox.net/demo/wp/nastik/doc/documentation.html\" target="
+"\"_blank\">Click Here</a> To get the theme documentation."
+msgstr ""
+
+#: includes/nastik-options.php:2578
+msgid "Section via hook"
+msgstr ""
+
+#: includes/nastik-options.php:2579
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: includes/style.php:20
+msgctxt "Mukta font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/extensions/example-functions.php:90
+msgid "Best if used on new WordPress install."
+msgstr ""
+
+#: includes/extensions/example-functions.php:91
+msgid "Images are for demo purpose only."
+msgstr ""
+
+#: includes/extensions/wbc_importer/extension_wbc_importer.php:236
+msgid "Demo Already Imported"
+msgstr ""
+
+#: includes/extensions/wbc_importer/extension_wbc_importer.php:262
+#: includes/extensions/wbc_importer/extension_wbc_importer.php:264
+msgid "Demo Importer"
+msgstr ""
+
+#: includes/extensions/wbc_importer/extension_wbc_importer.php:269
+msgid "Works best to import on a new install of WordPress"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/parsers.php:42
+#: includes/extensions/wbc_importer/inc/importer/parsers.php:72
+#: includes/extensions/wbc_importer/inc/importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/parsers.php:84
+#: includes/extensions/wbc_importer/inc/importer/parsers.php:89
+#: includes/extensions/wbc_importer/inc/importer/parsers.php:279
+#: includes/extensions/wbc_importer/inc/importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/radium-importer.php:256
+msgid "Theme options Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/radium-importer.php:331
+msgid "Widget Import file could not be found. Please try again."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/radium-importer.php:405
+msgid "Sidebar does not exist in theme (using Inactive)"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/radium-importer.php:427
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/radium-importer.php:450
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/radium-importer.php:499
+#: includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:116
+msgid "Imported"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/radium-importer.php:502
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/radium-importer.php:509
+msgid "No Title"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:134
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:143
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:194
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:198
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:207
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:135
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "All done."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:178
+msgid "Have fun!"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:179
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:199
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:215
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:240
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:266
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:267
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:269
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:279
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:282
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:286
+msgid "Submit"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:299
+msgid "Import author:"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:310
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:313
+msgid "as a new user:"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:321
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:323
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:324
+msgid "- Select -"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:374
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:425
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:465
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:511
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:652
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:537
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:559
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:618
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:783
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:790
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:853
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:866
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:910
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:916
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:923
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:928
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:934
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1032
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1039
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1054
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: includes/extensions/wbc_importer/inc/importer/wordpress-importer.php:1055
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:93
+#: includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+msgid "Import Demo"
+msgstr ""
+
+#: includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:97
+msgid "Demo Imported"
+msgstr ""
+
+#: includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:114
+#: includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:117
+msgid "Please Wait..."
+msgstr ""
+
+#: includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:118
+msgid "Re-Import"
+msgstr ""
+
+#: includes/extensions/wbc_importer/wbc_importer/field_wbc_importer.php:127
+msgid "No Demo Data Provided"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:8
+msgid "Nastik - Contact Widget"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:89
+#: nastik-widget/widget/nastik-recentpost.php:108
+#: nastik-widget/widget/nastik-twitter-feed.php:61
+#: nastik-widget/widget/nastik-user.php:100
+msgid "Title:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:94
+msgid "Data Phone Title:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:94
+msgid "e.x: Call"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:99
+msgid "Phone Number:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:104
+msgid "Data E-mail Title:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:104
+msgid "e.x: Write"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:109
+msgid "E-mail:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:114
+msgid "Data Address Title:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:114
+msgid "e.x: Find us"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:119
+msgid "Address:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:124
+msgid "MailChimp Form URL:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:124
+msgid ""
+"e.x: https://webredox.us14.list-manage.com/subscribe/post?"
+"u=634601c1e4b55f8e21e669de4&id=1040ec6b62 "
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:129
+msgid "Form Button Text:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:129
+msgid "e.x: Send"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:134
+msgid "Form Input Placeholder:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:134
+msgid "e.x: Your Email"
+msgstr ""
+
+#: nastik-widget/widget/nastik-contact.php:139
+msgid "Form Description:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-recentpost.php:111
+msgid "Number of posts to show:"
+msgstr ""
+
+#: nastik-widget/widget/nastik-twitter-feed.php:8
+msgid "Nastik Twitter Feed"
+msgstr ""
+
+#: nastik-widget/widget/nastik-twitter-feed.php:66
+msgid "Twitter User Name :"
+msgstr ""
+
+#: nastik-widget/widget/nastik-twitter-feed.php:66
+msgid "e.x:envatomarket"
+msgstr ""
+
+#: nastik-widget/widget/nastik-user.php:8
+msgid "Nastik - User Details"
+msgstr ""
+
+#: nastik-widget/widget/nastik-user.php:34
+msgid "Find on : "
+msgstr ""
+
+#: nastik-widget/widget/nastik-user.php:39
+msgid "Facebook"
+msgstr ""
+
+#: nastik-widget/widget/nastik-user.php:44
+msgid "Twitter"
+msgstr ""
+
+#: nastik-widget/widget/nastik-user.php:49
+msgid "Instagram"
+msgstr ""
+
+#: nastik-widget/widget/nastik-user.php:54
+msgid "Tumblr"
+msgstr ""
+
+#: nastik-widget/widget/nastik-user.php:59
+msgid "Pinterest"
+msgstr ""
+
+#: nastik-widget/widget/nastik-user.php:64
+msgid "Youtube"
+msgstr ""
+
+#: template-parts/main-header.php:58
+msgid "Share : "
+msgstr ""
+
+#: template-parts/page_title.php:5 template-parts/index/blog-left.php:54
+#: template-parts/index/blog-right.php:54 template-parts/index/full.php:21
+#: template-parts/index-details/full.php:14
+#: template-parts/index-details/left.php:50
+#: template-parts/index-details/right.php:48
+msgid "My Blog"
+msgstr ""
+
+#: template-parts/page_title.php:22
+msgid "Search Page"
+msgstr ""
+
+#: template-parts/page_title.php:24
+msgid "Error 404"
+msgstr ""
+
+#: template-parts/blog/blog-left.php:15 template-parts/blog/blog-right.php:15
+#: template-parts/blog/full.php:33 template-parts/index/blog-left.php:15
+#: template-parts/index/blog-right.php:15 template-parts/index/full.php:40
+#: template-parts/index-details/full.php:31
+#: template-parts/index-details/left.php:15
+#: template-parts/index-details/right.php:15
+#: template-parts/search/blog-left.php:15
+#: template-parts/search/blog-left.php:44
+#: template-parts/search/blog-right.php:15
+#: template-parts/search/blog-right.php:44 template-parts/search/full.php:13
+#: template-parts/search/full.php:30 woocommerce/archive-product.php:44
+#: woocommerce/content-single-product.php:41
+msgid "Search"
+msgstr ""
+
+#: template-parts/blog/blog-left.php:23 template-parts/blog/blog-right.php:23
+#: template-parts/blog/full.php:41 template-parts/index/blog-left.php:23
+#: template-parts/index/blog-right.php:23 template-parts/index/full.php:48
+#: template-parts/index-details/full.php:48
+#: template-parts/index-details/left.php:33
+#: template-parts/index-details/right.php:32
+#: template-parts/search/blog-left.php:23
+#: template-parts/search/blog-right.php:23 template-parts/search/full.php:38
+#: woocommerce/archive-product.php:52
+#: woocommerce/content-single-product.php:49
+msgid "Categories "
+msgstr ""
+
+#: template-parts/blog/blog-left.php:35 template-parts/blog/blog-right.php:35
+#: template-parts/blog/full.php:54 template-parts/index/blog-left.php:35
+#: template-parts/index/blog-right.php:35 template-parts/index/full.php:61
+#: template-parts/index-details/full.php:55
+#: template-parts/index-details/left.php:41
+#: template-parts/index-details/right.php:39
+#: template-parts/search/blog-left.php:35
+#: template-parts/search/blog-right.php:35 template-parts/search/full.php:51
+#: woocommerce/archive-product.php:64
+#: woocommerce/content-single-product.php:61
+msgid "Type and click Enter to search.."
+msgstr ""
+
+#: template-parts/blog/blog-left.php:77 template-parts/blog/blog-right.php:77
+#: template-parts/blog/full.php:74 template-parts/index/blog-left.php:80
+#: template-parts/index/blog-right.php:80 template-parts/index/full.php:78
+#: template-parts/index-details/full.php:64
+#: template-parts/index-details/left.php:70
+#: template-parts/index-details/right.php:68
+#: template-parts/search/blog-left.php:70
+#: template-parts/search/blog-right.php:70 template-parts/search/full.php:68
+msgid "Category : "
+msgstr ""
+
+#: template-parts/blog/blog-left.php:126
+#: template-parts/blog/blog-right.php:126 template-parts/blog/full.php:123
+#: template-parts/index/blog-left.php:129
+#: template-parts/index/blog-right.php:129 template-parts/index/full.php:127
+#: template-parts/search/blog-left.php:119
+#: template-parts/search/blog-right.php:119 template-parts/search/full.php:117
+msgid "Read more"
+msgstr ""
+
+#: template-parts/index/blog-left.php:48
+#: template-parts/index/blog-right.php:48
+msgid "Tag"
+msgstr ""
+
+#: template-parts/index/blog-left.php:51
+#: template-parts/index/blog-right.php:51
+msgid "Archive"
+msgstr ""
+
+#: template-parts/index-details/full.php:37
+#: template-parts/index-details/left.php:21
+#: template-parts/index-details/right.php:21
+msgid "Tags "
+msgstr ""
+
+#: template-parts/index-details/full.php:167
+#: template-parts/index-details/left.php:173
+#: template-parts/index-details/right.php:171
+#: template-parts/portfolio-details/carousel.php:145
+#: template-parts/portfolio-details/default.php:152
+#: template-parts/portfolio-details/gallery.php:175
+#: template-parts/portfolio-details/mp4.php:175
+#: template-parts/portfolio-details/slider.php:175
+#: template-parts/portfolio-details/slider2.php:180
+#: template-parts/portfolio-details/vimeo.php:173
+#: template-parts/portfolio-details/youtube.php:170
+#: woocommerce/content-single-product.php:152
+msgid "Prev - "
+msgstr ""
+
+#: template-parts/index-details/full.php:191
+#: template-parts/index-details/left.php:197
+#: template-parts/index-details/right.php:195
+#: template-parts/portfolio-details/carousel.php:169
+#: template-parts/portfolio-details/default.php:176
+#: template-parts/portfolio-details/gallery.php:199
+#: template-parts/portfolio-details/mp4.php:199
+#: template-parts/portfolio-details/slider.php:199
+#: template-parts/portfolio-details/slider2.php:204
+#: template-parts/portfolio-details/vimeo.php:197
+#: template-parts/portfolio-details/youtube.php:194
+#: woocommerce/content-single-product.php:172
+msgid "Next - "
+msgstr ""
+
+#: template-parts/portfolio/boxed-grid.php:44
+#: template-parts/portfolio/column-grid-2.php:29
+#: template-parts/portfolio/column-grid.php:29
+#: template-parts/portfolio/fullscreen-grid-2.php:12
+#: template-parts/portfolio/fullscreen-grid.php:12
+msgid "Works Filter "
+msgstr ""
+
+#: template-parts/portfolio/boxed-grid.php:47
+#: template-parts/portfolio/column-grid-2.php:32
+#: template-parts/portfolio/column-grid.php:32
+#: template-parts/portfolio/fullscreen-grid-2.php:15
+#: template-parts/portfolio/fullscreen-grid.php:15
+msgid "All projects"
+msgstr ""
+
+#: template-parts/portfolio-details/carousel.php:29
+msgid "Info"
+msgstr ""
+
+#: template-parts/portfolio-details/gallery.php:46
+#: template-parts/portfolio-details/slider2.php:45
+msgid "Back to portfolio"
+msgstr ""
+
+#: template-parts/portfolio-details/mp4.php:41
+#: template-parts/portfolio-details/vimeo.php:39
+#: template-parts/portfolio-details/youtube.php:36
+msgid "View More Details"
+msgstr ""
+
+#: template-parts/portfolio-details/slider.php:40
+msgid "View Details"
+msgstr ""
+
+#: template-parts/search/blog-left.php:45
+#: template-parts/search/blog-right.php:45
+#, php-format
+msgid "Results for %s"
+msgstr ""
+
+#: woocommerce/content-single-product.php:71
+msgid "My Shop"
+msgstr ""
+
+#: woocommerce/product-searchform.php:24
+msgid "Search forssss:"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search ddddproducts&hellip;"
+msgstr ""
+
+#: woocommerce/global/form-login.php:34
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/global/form-login.php:38
+msgid "Password"
+msgstr ""
+
+#: woocommerce/global/form-login.php:47
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/global/form-login.php:51
+msgid "Login"
+msgstr ""
+
+#: woocommerce/global/form-login.php:54
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""

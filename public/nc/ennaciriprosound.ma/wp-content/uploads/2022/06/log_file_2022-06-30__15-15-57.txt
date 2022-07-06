@@ -1,0 +1,80 @@
+
+---Downloaded files---
+The import files for: Nastik Demo were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://192.99.160.27/nc/ennaciriprosound.ma
+Data file = /var/www/html/public/nc/ennaciriprosound.ma/wp-content/themes/nastik/includes/nastik-demo/demo-content.xml
+Widget file = /var/www/html/public/nc/ennaciriprosound.ma/wp-content/themes/nastik/includes/nastik-demo/widgets.wie
+Customizer file = not defined!
+Redux files:
+nastik -> /var/www/html/public/nc/ennaciriprosound.ma/wp-content/themes/nastik/includes/nastik-demo/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Nastik - User Details - [span]01.[/span] About Author - Imported
+Nastik  Recent Posts - [span]02.[/span] Latest Posts - Imported
+Tag Cloud - [span]03.[/span] Tags - Imported
+Categories - [span]04.[/span] Categories - Imported
+
+Footer Widget Area 1 : 
+
+Nastik Twitter Feed - [span]001.[/span] Latest Tweets - Imported
+
+Footer Widget Area 2 : 
+
+Nastik - Contact Widget - [span]002.[/span] Subscribe / Contacts - Imported
+
+sidebar-3 : Sidebar does not exist in theme (moving widget to Inactive)
+
+woocommerce_widget_cart - [span]01.[/span] Cart - Site does not support widget
+woocommerce_price_filter - [span]02.[/span] Filter by price - Site does not support widget
+woocommerce_products - [span]03.[/span] Products - Site does not support widget
+woocommerce_product_tag_cloud - [span]04.[/span] Product tags - Site does not support widget
+woocommerce_product_categories - [span]05.[/span] Product categories - Site does not support widget
+
+
+
+---Importing Redux settings---
+Redux settings import for: nastik finished successfully!
+
+---ocdi/after_import---
+

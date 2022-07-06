@@ -1,0 +1,25 @@
+2022-07-02T12:05:07+00:00 CRITICAL Uncaught Error: Attempt to modify property "response" on null in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/themes/nastik/includes/ini/NastikCreativePortfolioWordPressThemeBase.php:234
+Stack trace:
+#0 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/class-wp-hook.php(309): NastikCreativePortfolioWordPressThemeBase->PluginUpdate()
+#1 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/plugin.php(191): WP_Hook->apply_filters()
+#2 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/option.php(1992): apply_filters()
+#3 /var/www/html/public/nc/ennaciriprosound.ma/wp-content/themes/nastik/includes/ini/NastikCreativePortfolioWordPressThemeBase.php(58): set_site_transient()
+#4 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/class-wp-hook.php(307): NastikCreativePortfolioWordPressThemeBase->{closure}()
+#5 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#6 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/plugin.php(476): WP_Hook->do_action()
+#7 /var/www/html/public/nc/ennaciriprosound.ma/wp-admin/includes/class-language-pack-upgrader.php(287): do_action()
+#8 /var/www/html/public/nc/ennaciriprosound.ma/wp-admin/includes/class-language-pack-upgrader.php(140): Language_Pack_Upgrader->bulk_upgrade()
+#9 /var/www/html/public/nc/ennaciriprosound.ma/wp-admin/includes/class-wp-automatic-updater.php(403): Language_Pack_Upgrader->upgrade()
+#10 /var/www/html/public/nc/ennaciriprosound.ma/wp-admin/includes/class-wp-automatic-updater.php(517): WP_Automatic_Updater->update()
+#11 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/update.php(726): WP_Automatic_Updater->run()
+#12 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/class-wp-hook.php(307): wp_maybe_auto_update()
+#13 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#14 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/plugin.php(476): WP_Hook->do_action()
+#15 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/update.php(253): do_action()
+#16 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/class-wp-hook.php(307): wp_version_check()
+#17 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#18 /var/www/html/public/nc/ennaciriprosound.ma/wp-includes/plugin.php(524): WP_Hook->do_action()
+#19 /var/www/html/public/nc/ennaciriprosound.ma/wp-cron.php(138): do_action_ref_array()
+#20 {main}
+  thrown in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/themes/nastik/includes/ini/NastikCreativePortfolioWordPressThemeBase.php on line 234
+

@@ -1,0 +1,18 @@
+2022-06-30T14:40:46+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
+2022-06-30T14:40:55+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
+2022-06-30T14:41:00+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
+2022-06-30T14:41:11+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
+2022-06-30T14:51:17+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
+2022-06-30T15:10:15+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
+2022-06-30T15:10:49+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
+2022-06-30T15:11:12+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
+2022-06-30T15:14:01+00:00 CRITICAL Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /var/www/html/public/nc/ennaciriprosound.ma/wp-content/plugins/js_composer/include/classes/editors/class-vc-frontend-editor.php on line 646
+
